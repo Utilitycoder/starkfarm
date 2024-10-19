@@ -43,7 +43,3 @@ While the Sensei Strategy aims to maximize yields, it comes with several inheren
 9. **Reward Token Risk**: The value of STRK tokens used for rewards could decrease, affecting the profitability of the compounding feature.
 
 10. **Regulatory Risk**: Changes in regulations around DeFi or any of the involved protocols could impact the strategy's viability.
-
-## Conclusion
-
-The Sensei Strategy offers a potentially high-yield approach to DeFi farming, but it comes with significant risks. Users should carefully consider their risk tolerance and understand the mechanics of the strategy before participating. It is recommended to only invest funds you can afford to lose and to stay informed about the latest developments in the protocols used by this strategy.
